@@ -1,0 +1,132 @@
+.ftminha {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.principal {
+    background-color: rgb(233, 183, 220);
+    margin-bottom: auto;
+    margin: 10px;
+    border: 5px solid black;
+}
+
+#titulo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-left: 350px;
+    font-size:50px;
+    
+}
+
+.paragrafo1{
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 20px;
+    font-weight: bold;
+    
+}
+
+#subtitulo1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(127, 216, 218);
+
+}
+
+#subtitulo2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(80, 162, 91);
+}
+
+#subtitulo3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgba(110, 104, 104, 0.637);
+}
+
+#subtitulo4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(255, 156, 121);
+}
+
+#subtitulo5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: rgb(211, 98, 98);
+}
+
+#paragrafo2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 30px;
+}
+
+#paragrafo3 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 30px;
+}
+
+#paragrafo4 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 30px;
+}
+#paragrafo5 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 30px;
+}
+#paragrafo6 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 30px;
+}
+#imagem1 {
+    text-align: center;
+
+}
+
+#imagem2 {
+    text-align: center;
+}
+
+#imagem3 {
+    text-align: center;
+}
+
+#imagem4 {
+    text-align: center;
+}
+
+#imagem5 {
+    text-align: center;
+}
+#cachorro {
+    text-align: center;
+    
+}
+.imagemcachorro {
+    border-radius: 70px;
+    border: 2px solid black;
+}
+
+#div1 {
+    display: flex;
+    flex-direction: row;
+}
+
